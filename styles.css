@@ -22,6 +22,13 @@ main {
   padding: 30px;
 }
 
+code {
+  background-color: #eee;
+  border-radius: 5px;
+  font-size: 0.75em;
+  padding: 3px;
+}
+
 h1 {
   text-align: center;
 }
